@@ -9,9 +9,9 @@ date: 2024-11-12
 This is my first blog post. 
 I'll write about the learnings of the day.
 
-## Powerlist
+## Notes
 
-I have utilized the powerlist to create focus. Keep in mind this is the first day. Maybe i did not yet choose the most high leverage tasks but it helped me focus on a few things throughout the day
+I bought a **physical** notebook - thanks to my girlfriend - to write down the tasks for the day to create focus. Keep in mind this is the first day. Maybe i did not yet choose the most high leverage tasks but it helped me focus on a few things throughout the day
 
 ## Acquire.com
 I have been thinking about this before and now picking up on the idea again of a Microacquisition. 
