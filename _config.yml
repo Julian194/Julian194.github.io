@@ -1,6 +1,6 @@
-title: My Blog
+title: jksr
 description: Welcome to my blog
 theme: minima
-author: Your Name
+author: Julian
 plugins:
   - jekyll-feed
