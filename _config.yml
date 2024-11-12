@@ -1,0 +1,6 @@
+title: My Blog
+description: Welcome to my blog
+theme: minima
+author: Your Name
+plugins:
+  - jekyll-feed
