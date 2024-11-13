@@ -47,6 +47,11 @@ I found the code really nicely strucutred and after working on a couple of these
 
 ## Hardware Hacker
 A [book](https://amzn.eu/d/ffYRMCr) that I bought recently. Goal was to read the first chapter - I'll update this with the summary of what I learned.
+- Shenzen and its crazy Hardware scene in 2006 
+- The author describes his experience sourcing and assembling the [Chumby](https://en.wikipedia.org/wiki/Chumby)
+- Talks about abundance of hardware and cheap education
+- Talks about huge factories like Foxconn that are like small cities
+- Talks about how food is a good indicator of how well the facotry workres are treated
 
 ## Freelance Work
 Got some freelance work to do for an invoicing system that I used to work on so I did some research on how to implement a small new feature.
